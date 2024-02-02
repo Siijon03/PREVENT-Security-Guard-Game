@@ -42,7 +42,7 @@ public class SetVolume : MonoBehaviour
         //Represents the Slider Volume by a Logirithm of 10 and Multiplies it by 20, changes the value to -80 to 0.
         Mixer.SetFloat("MusicVolume", Mathf.Log10(SliderLevel) * 20);
         //Basic Testing
-        Debug.Log("The Slider level is" + SliderLevel);
+        Debug.Log("The Slider level is " + SliderLevel);
 
         SaveVolume();
 
