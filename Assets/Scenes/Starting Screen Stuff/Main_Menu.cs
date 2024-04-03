@@ -8,8 +8,14 @@ public class Main_Menu : MonoBehaviour
     //Called When the Player Hits the 'Play' Button.
     public void OnPlayButton ()
     {
-        SceneManager.LoadScene("How to Screen");
+        SceneManager.LoadScene("Tutorial Screen");
         Debug.Log("Loaded up The Tutorial!");
+    }
+
+    public void OnTestButton()
+    {
+        SceneManager.LoadScene("How to Screen");
+        Debug.Log("Loaded up The Test Screen!");
     }
 
     //Used to Load the Settings Screen.
