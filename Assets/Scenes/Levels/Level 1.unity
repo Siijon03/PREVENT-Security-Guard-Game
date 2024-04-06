@@ -357,7 +357,7 @@ GameObject:
   - component: {fileID: 784681339}
   - component: {fileID: 784681340}
   m_Layer: 0
-  m_Name: Prevent How-To-Play
+  m_Name: The Hallway
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
