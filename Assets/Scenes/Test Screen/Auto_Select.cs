@@ -9,6 +9,10 @@ public class Auto_Select : MonoBehaviour, IPointerEnterHandler, IPointerExitHand
     [SerializeField] public GameObject Text;
     [SerializeField] public RawImage Image;
 
+    void Start()
+    {
+        Image.gameObject.SetActive(false);
+    }
 
     public void OnPointerEnter(PointerEventData eventData)
     {
