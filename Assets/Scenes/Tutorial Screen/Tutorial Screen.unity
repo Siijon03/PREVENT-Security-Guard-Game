@@ -215,6 +215,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _mainCamera: {fileID: 317967734}
+  points_Score: -1
+  scoreText: {fileID: 0}
+  ref_animation: {fileID: 0}
+  animator: {fileID: 0}
+  police_Ref: {fileID: 0}
+  spawnedObjectOffset: {x: 0, y: 0, z: 0}
+  trackObjectTransform: {fileID: 0}
+  PoliceActive: {fileID: 0}
+  DogCaughtActive: {fileID: 0}
 --- !u!1 &305630508
 GameObject:
   m_ObjectHideFlags: 0
@@ -777,7 +786,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 038112eaca567f7478b33bdde98bd800, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a1e2988751a1c084a8a4e3356397fd5a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0

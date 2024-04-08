@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Disclaimer_Screen/Disclaimer_Message.unity
+    guid: 47ab928b3e4184547bf2cd0c0352fe67
+  - enabled: 1
     path: Assets/Scenes/Starting Screen Stuff/Starting Screen.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
