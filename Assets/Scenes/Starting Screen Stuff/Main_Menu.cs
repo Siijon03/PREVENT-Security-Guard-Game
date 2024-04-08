@@ -25,6 +25,13 @@ public class Main_Menu : MonoBehaviour
         Debug.Log("Loaded up Settings!");
     }
 
+    //Load The Extra Information Screen.
+    public void OnExtraInfoButton()
+    {
+        SceneManager.LoadScene("Extra Information");
+        Debug.Log("Loaded Up Extra Information!");
+    }
+
     //To Quit the Game.
     public void OnQuitButton ()
     {

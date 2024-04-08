@@ -1,0 +1,1843 @@
+fileFormatVersion: 2
+guid: 62d480e02985f2a4b9b9490fad22c379
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_1
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 767
+        width: 145
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916cdd1ca2b5cb14a90fac66d3167c45
+      internalID: -1394567080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_2
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 767
+        width: 162
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e17689f7b43f64f96fc6a47db79eab
+      internalID: 1861480318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_3
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 814
+        width: 111
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068f71d7acf37c3408853509485c6e72
+      internalID: -875979074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_5
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 772
+        width: 209
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bee1a4baa68890428696a6c6752d885
+      internalID: 1859564882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_6
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 987
+        width: 10
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e840527c007303840b1ce19cdaeb1c0b
+      internalID: -1871124965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_7
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 959
+        width: 10
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a138412718bec7429dad58b133f8a07
+      internalID: 1835676852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_8
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 767
+        width: 147
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79ae4c54d4eb9648b09924027191b66
+      internalID: -197945992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_9
+      rect:
+        serializedVersion: 2
+        x: 2167
+        y: 767
+        width: 154
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d27db4fde5b8e49af76b4d369a6eed
+      internalID: 2025350908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_10
+      rect:
+        serializedVersion: 2
+        x: 2456
+        y: 769
+        width: 142
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b82343b0ebcc247a5670b7a355c63f
+      internalID: -1955426829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_11
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 767
+        width: 67
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f123b7842e76d24eb031e695323475f
+      internalID: -1146053185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_12
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 767
+        width: 123
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3eddffe2c7867242829fcccc46ae183
+      internalID: 1085677864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_13
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 760
+        width: 99
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae35bcfd12600294998e60013d989ed3
+      internalID: -279191755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_14
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 790
+        width: 93
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1246fff02c99d64419649cd9cf6bda13
+      internalID: 1420985718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_15
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 761
+        width: 102
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b815a37f9984849a83bb5d828e01ab
+      internalID: 722084540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_16
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 765
+        width: 158
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156b50e726c83a8418e7f79f19af4f41
+      internalID: -1399454245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_17
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 767
+        width: 125
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abbbd2b104e7794e936eebd2c34f095
+      internalID: 158053679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_18
+      rect:
+        serializedVersion: 2
+        x: 2363
+        y: 767
+        width: 74
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe334fff0a763048a000321b9cdf8ff
+      internalID: 557053967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_19
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 767
+        width: 125
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161467f6c4581a348bcfdabefd7b3280
+      internalID: -1811458098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_20
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 507
+        width: 66
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa21e6a4a7bd2942acaad30cddbb486
+      internalID: 1781775042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_21
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 511
+        width: 134
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243ebff59e32092469c6e4be5c8a3410
+      internalID: -214625208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_22
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 509
+        width: 105
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2676b92705dea439e6fd52ebda1d8d
+      internalID: 627495827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_23
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 506
+        width: 94
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568aead5622391048bf2fdddc0943db5
+      internalID: 312568075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_24
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 507
+        width: 158
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0b7babf31b51d40b68227a2fdb4016
+      internalID: 1713148267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_25
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 542
+        width: 111
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a2e40954d3d4549910c33c32a41c9c
+      internalID: 2108896870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_26
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 541
+        width: 96
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b4d875c9724134f8711c3fa38f5407
+      internalID: 561234332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_27
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 509
+        width: 94
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11dd70eb8a880cb45aae0c9ff39e505b
+      internalID: 1731779451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_28
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 519
+        width: 165
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3fafe6a9066c849a4b8fb5140ad9ef
+      internalID: -1120393713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_29
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 517
+        width: 144
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1708df1d8a008f4481d8561d7596014
+      internalID: 146281959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_30
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 511
+        width: 136
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975c0789bc6c7554a84a5ac98d8c52cd
+      internalID: -436925516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_31
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 509
+        width: 103
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f3bc4c863b4da4e91ac0d7dc73c606
+      internalID: 680953655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_33
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 513
+        width: 74
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c263da0e3131ff4589e6d117d05919a
+      internalID: 377473149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_34
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 511
+        width: 133
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a242a66c34945d94c9eb47adff060493
+      internalID: 1190535490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_35
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 509
+        width: 105
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71118f0fb148e654fbaaa3269a22558e
+      internalID: 187937322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_36
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 239
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5896e97acf197094d9d93c333c96858c
+      internalID: -288276617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_37
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 239
+        width: 62
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16751cfb35c079548a89afcd62367632
+      internalID: -1780557296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_38
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 255
+        width: 127
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e26f412598358749b707d696efefc7a
+      internalID: 944670440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_39
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 255
+        width: 87
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4669e72e4275148bc1ff36525415fb
+      internalID: -1607686320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_40
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 239
+        width: 110
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76a76c86833634469fdb61808f0afc4
+      internalID: -698560325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_41
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 251
+        width: 81
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f73de95db9a6e4ba89a0c64d649ab4
+      internalID: -986473516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_42
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 288
+        width: 125
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28eaf6e925b472545aea53fc0fc12e90
+      internalID: 474939993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_43
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 300
+        width: 87
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9435a2414a99f489c1a0374877ace8
+      internalID: 501637689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_44
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 241
+        width: 113
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef1ce18e1334bf4f8c2e5d344d571d7
+      internalID: 1375194861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_45
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 244
+        width: 97
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5932ebf077e4d34aba6487780cd2d74
+      internalID: 52692045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_46
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 267
+        width: 195
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5292ebbf2364874b8d29e35d4938ec6
+      internalID: 1144111399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_47
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 261
+        width: 155
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38112119346161e4895d4bbfb591775b
+      internalID: -1512979385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_48
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 427
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0148c94481fce4f8c640708fd21c0b
+      internalID: 1338454992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_49
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 255
+        width: 128
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5746e2a5e220c4786e64edcf396079
+      internalID: -899549072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_50
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 255
+        width: 87
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32e796e1e892104299a5432f2df87df
+      internalID: -710615689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_51
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 256
+        width: 62
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e16fae889f8304383e69106b356a95
+      internalID: -1722172112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_52
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 255
+        width: 126
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422e64572e094564bb94b13ed0d03741
+      internalID: -1963675188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_53
+      rect:
+        serializedVersion: 2
+        x: 2636
+        y: 255
+        width: 87
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff26dc63ea3b9084ba169cfe0ca65543
+      internalID: 2116806186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_54
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 14
+        width: 72
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c54fd5bde517447b413b2ec3e9c0d4
+      internalID: 455967863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_55
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 14
+        width: 60
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9d9550507a65c4496a20747f2145f1
+      internalID: 1212546043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_56
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 17
+        width: 95
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29a31e0aa5ce5546ad54bfb5f6e1e04
+      internalID: 1650212174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_57
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 17
+        width: 83
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e33178526bbf14cbf651e95359fdd3
+      internalID: 105957280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_58
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 13
+        width: 102
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004b87272f219fa40885177562d7501f
+      internalID: 1845575524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_59
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 14
+        width: 74
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac76112cc8b57ed4fbddf4e1650fe375
+      internalID: 1102174947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_60
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 58
+        width: 112
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a737492e6d422744c96eb5139d69de8f
+      internalID: 586006961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_61
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 48
+        width: 95
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b652edfdc96d54ea9f66aeec847a2a
+      internalID: 1868616194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_62
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 14
+        width: 104
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cd154359511b642b826a4e81f4a142
+      internalID: 391908748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_63
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 15
+        width: 88
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b74b63402cc5e4a94ddafc3f6a4c99
+      internalID: -304972209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_64
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 25
+        width: 195
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a81e2e437d0d844aac0f6f513c3443f
+      internalID: -954007701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_65
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 29
+        width: 154
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235125c924e3c9142a26ccbd3f5ed722
+      internalID: -2138775567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_66
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 17
+        width: 95
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0edd27212f3401142867d3dbfcddb93d
+      internalID: 1690614535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_67
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 17
+        width: 85
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e70513a41527b94d98fd29910b78405
+      internalID: -1645361987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_68
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 19
+        width: 73
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac3e2f49f8cc734d9e3cb49ac033e9d
+      internalID: -259735566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_69
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 21
+        width: 60
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841140540cd83934c9f2f89bedc38ba0
+      internalID: -1577375462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_70
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 17
+        width: 96
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1747060ea7eda6747a15fa18796fe2dc
+      internalID: -1003223269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_71
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 17
+        width: 83
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0594368773bdcec4eae4c24878dd73f0
+      internalID: -1765799978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_72
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 15
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3db52725c7501d44874bf6f353acfac
+      internalID: -459917727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 767
+        width: 80
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f487c21b72149e54b973f4be51dae418
+      internalID: 1413936662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_73
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 507
+        width: 84
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbaad5fa425b5b846b6f428f77ead60d
+      internalID: 1491673742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_4
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 506
+        width: 100
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ef1d314b9a3844e8d6c7faf39b6ce6
+      internalID: -175707884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_74
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 767
+        width: 107
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5171a1c617925db4f8b1ff7fd2c23ea5
+      internalID: -333200242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_32
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 512
+        width: 110
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5de3b2fecae5564ab6e60de4c30e336
+      internalID: 1450738308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PREVENT Students Sprite Sheet v2_75
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 251
+        width: 86
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67770c29836c77448b5ab312744a82fa
+      internalID: -537760391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PREVENT Students Sprite Sheet v2_0: 1413936662
+      PREVENT Students Sprite Sheet v2_1: -1394567080
+      PREVENT Students Sprite Sheet v2_10: -1955426829
+      PREVENT Students Sprite Sheet v2_11: -1146053185
+      PREVENT Students Sprite Sheet v2_12: 1085677864
+      PREVENT Students Sprite Sheet v2_13: -279191755
+      PREVENT Students Sprite Sheet v2_14: 1420985718
+      PREVENT Students Sprite Sheet v2_15: 722084540
+      PREVENT Students Sprite Sheet v2_16: -1399454245
+      PREVENT Students Sprite Sheet v2_17: 158053679
+      PREVENT Students Sprite Sheet v2_18: 557053967
+      PREVENT Students Sprite Sheet v2_19: -1811458098
+      PREVENT Students Sprite Sheet v2_2: 1861480318
+      PREVENT Students Sprite Sheet v2_20: 1781775042
+      PREVENT Students Sprite Sheet v2_21: -214625208
+      PREVENT Students Sprite Sheet v2_22: 627495827
+      PREVENT Students Sprite Sheet v2_23: 312568075
+      PREVENT Students Sprite Sheet v2_24: 1713148267
+      PREVENT Students Sprite Sheet v2_25: 2108896870
+      PREVENT Students Sprite Sheet v2_26: 561234332
+      PREVENT Students Sprite Sheet v2_27: 1731779451
+      PREVENT Students Sprite Sheet v2_28: -1120393713
+      PREVENT Students Sprite Sheet v2_29: 146281959
+      PREVENT Students Sprite Sheet v2_3: -875979074
+      PREVENT Students Sprite Sheet v2_30: -436925516
+      PREVENT Students Sprite Sheet v2_31: 680953655
+      PREVENT Students Sprite Sheet v2_32: 1450738308
+      PREVENT Students Sprite Sheet v2_33: 377473149
+      PREVENT Students Sprite Sheet v2_34: 1190535490
+      PREVENT Students Sprite Sheet v2_35: 187937322
+      PREVENT Students Sprite Sheet v2_36: -288276617
+      PREVENT Students Sprite Sheet v2_37: -1780557296
+      PREVENT Students Sprite Sheet v2_38: 944670440
+      PREVENT Students Sprite Sheet v2_39: -1607686320
+      PREVENT Students Sprite Sheet v2_4: -175707884
+      PREVENT Students Sprite Sheet v2_40: -698560325
+      PREVENT Students Sprite Sheet v2_41: -986473516
+      PREVENT Students Sprite Sheet v2_42: 474939993
+      PREVENT Students Sprite Sheet v2_43: 501637689
+      PREVENT Students Sprite Sheet v2_44: 1375194861
+      PREVENT Students Sprite Sheet v2_45: 52692045
+      PREVENT Students Sprite Sheet v2_46: 1144111399
+      PREVENT Students Sprite Sheet v2_47: -1512979385
+      PREVENT Students Sprite Sheet v2_48: 1338454992
+      PREVENT Students Sprite Sheet v2_49: -899549072
+      PREVENT Students Sprite Sheet v2_5: 1859564882
+      PREVENT Students Sprite Sheet v2_50: -710615689
+      PREVENT Students Sprite Sheet v2_51: -1722172112
+      PREVENT Students Sprite Sheet v2_52: -1963675188
+      PREVENT Students Sprite Sheet v2_53: 2116806186
+      PREVENT Students Sprite Sheet v2_54: 455967863
+      PREVENT Students Sprite Sheet v2_55: 1212546043
+      PREVENT Students Sprite Sheet v2_56: 1650212174
+      PREVENT Students Sprite Sheet v2_57: 105957280
+      PREVENT Students Sprite Sheet v2_58: 1845575524
+      PREVENT Students Sprite Sheet v2_59: 1102174947
+      PREVENT Students Sprite Sheet v2_6: -1871124965
+      PREVENT Students Sprite Sheet v2_60: 586006961
+      PREVENT Students Sprite Sheet v2_61: 1868616194
+      PREVENT Students Sprite Sheet v2_62: 391908748
+      PREVENT Students Sprite Sheet v2_63: -304972209
+      PREVENT Students Sprite Sheet v2_64: -954007701
+      PREVENT Students Sprite Sheet v2_65: -2138775567
+      PREVENT Students Sprite Sheet v2_66: 1690614535
+      PREVENT Students Sprite Sheet v2_67: -1645361987
+      PREVENT Students Sprite Sheet v2_68: -259735566
+      PREVENT Students Sprite Sheet v2_69: -1577375462
+      PREVENT Students Sprite Sheet v2_7: 1835676852
+      PREVENT Students Sprite Sheet v2_70: -1003223269
+      PREVENT Students Sprite Sheet v2_71: -1765799978
+      PREVENT Students Sprite Sheet v2_72: -459917727
+      PREVENT Students Sprite Sheet v2_73: 1491673742
+      PREVENT Students Sprite Sheet v2_74: -333200242
+      PREVENT Students Sprite Sheet v2_75: -537760391
+      PREVENT Students Sprite Sheet v2_8: -197945992
+      PREVENT Students Sprite Sheet v2_9: 2025350908
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
