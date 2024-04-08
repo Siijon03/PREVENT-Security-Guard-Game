@@ -34,6 +34,7 @@ public class Basic_Inputs : MonoBehaviour
     {
         PoliceActive.SetActive(false);
         DogCaughtActive.SetActive(false);
+        scoreText.gameObject.SetActive(false);
 
         scoreText.text = "Your Score: ";
 
@@ -83,6 +84,7 @@ public class Basic_Inputs : MonoBehaviour
         _mainCamera = Camera.main;
     }
 
+    //Do Stuff On CLick.
     public void OnClick(InputAction.CallbackContext Context)
     {
         if (!Context.started) return;
@@ -128,22 +130,20 @@ public class Basic_Inputs : MonoBehaviour
         PoliceActive.SetActive(true);
         DogCaughtActive.SetActive(true);
 
-        if (ref_animation != null)
+        if (ref_animation != null && animator != null)
         {
-            // Create a new animation clip with the provided animation clip
-            AnimationClip animationClip = ref_animation;
+            // Create a new animation clip with the provided animation clip.
+            ref_animation.wrapMode = WrapMode.Once;
 
-            // Play the animation clip
-            GetComponent<Animator>().Play(animationClip.name);
+            // Play the animation clip.
+            animator.Play(ref_animation.name);
             isAnimating = true;
         }
-
-        //Use the Animation Compenent. 
-        if (animator != null)
+        else
         {
-            animator.SetBool("Loop", false);
-            animator.enabled = true;
+            Debug.LogError("Animation clip or animator not assigned!");
         }
+
     }
 
     void DestroyObjectsWithTag(string tagToDestroy)

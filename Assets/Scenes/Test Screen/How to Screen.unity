@@ -150,7 +150,7 @@ Animator:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 182946468}
-  m_Enabled: 0
+  m_Enabled: 1
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: 4231b197f3c22784a8cf4b98ffd6470d, type: 2}
   m_CullingMode: 0
@@ -776,7 +776,7 @@ MonoBehaviour:
   speakingObjectReplacement: {fileID: 4876474811433730309, guid: 7cd0ee8c0439811488c7302722cf5eef, type: 3}
   spawnedObjectOffset: {x: -1, y: 1}
   emotionSpawnDelay: 5
-  replacementEmotionSpawnDelay: 15
+  replacementEmotionSpawnDelay: 10
   zOffset: 0
 --- !u!1 &661001479
 GameObject:
@@ -1031,7 +1031,7 @@ MonoBehaviour:
   scoreText: {fileID: 219139693}
   ref_animation: {fileID: 7400000, guid: 0363ea421e62d4e42b1bb251fb0475e0, type: 2}
   animator: {fileID: 182946469}
-  police_Ref: {fileID: 2076108705}
+  police_Ref: {fileID: 182946468}
   spawnedObjectOffset: {x: 0, y: 0, z: 0}
   trackObjectTransform: {fileID: 182946471}
   PoliceActive: {fileID: 182946468}

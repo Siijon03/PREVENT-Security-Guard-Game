@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c063e5ede067e9a4db16f5b2683dcb06
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bubbleFrame: {fileID: 4589121169666805602, guid: 50951caa02fcbf84294903a3f05a1235, type: 3}
+  - speakingObject: {fileID: 4867036591851647176, guid: 890d5e1f178de5f43b9376f8c5385c71, type: 3}
+  - speakingObjectReplacement: {fileID: 1098300819734260369, guid: c5d5b89332363ea4fa05ad05a6b7ec2a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
