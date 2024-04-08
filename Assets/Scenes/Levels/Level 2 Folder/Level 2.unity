@@ -480,8 +480,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bubbleFrame: {fileID: 4589121169666805602, guid: 50951caa02fcbf84294903a3f05a1235, type: 3}
-  speakingObject: {fileID: 4867036591851647176, guid: 890d5e1f178de5f43b9376f8c5385c71, type: 3}
-  speakingObjectReplacement: {fileID: 1098300819734260369, guid: c5d5b89332363ea4fa05ad05a6b7ec2a, type: 3}
+  speakingObject: {fileID: 1098300819734260369, guid: c5d5b89332363ea4fa05ad05a6b7ec2a, type: 3}
+  speakingObjectReplacement: {fileID: 6465108282813103847, guid: e4935aea2e9cf6849a1a029ef4bc4223, type: 3}
   spawnedObjectOffset: {x: 1, y: 1}
   emotionSpawnDelay: 5
   replacementEmotionSpawnDelay: 15
@@ -635,8 +635,8 @@ MonoBehaviour:
   speakingObject: {fileID: 4867036591851647176, guid: 890d5e1f178de5f43b9376f8c5385c71, type: 3}
   speakingObjectReplacement: {fileID: 1098300819734260369, guid: c5d5b89332363ea4fa05ad05a6b7ec2a, type: 3}
   spawnedObjectOffset: {x: -0.5, y: 1}
-  emotionSpawnDelay: 10
-  replacementEmotionSpawnDelay: 20
+  emotionSpawnDelay: 8
+  replacementEmotionSpawnDelay: 16
   zOffset: 0
 --- !u!61 &533199672
 BoxCollider2D:

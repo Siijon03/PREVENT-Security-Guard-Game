@@ -1587,8 +1587,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bubbleFrame: {fileID: 4589121169666805602, guid: 50951caa02fcbf84294903a3f05a1235, type: 3}
-  speakingObject: {fileID: 480776376515346602, guid: 636d8367a728b4a42af6fa6d6ce5fb24, type: 3}
-  speakingObjectReplacement: {fileID: 4876474811433730309, guid: 7cd0ee8c0439811488c7302722cf5eef, type: 3}
+  speakingObject: {fileID: 1098300819734260369, guid: c5d5b89332363ea4fa05ad05a6b7ec2a, type: 3}
+  speakingObjectReplacement: {fileID: 480776376515346602, guid: 636d8367a728b4a42af6fa6d6ce5fb24, type: 3}
   spawnedObjectOffset: {x: 1, y: 1}
   emotionSpawnDelay: 5
   replacementEmotionSpawnDelay: 15
@@ -1756,7 +1756,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   bubbleFrame: {fileID: 4589121169666805602, guid: 50951caa02fcbf84294903a3f05a1235, type: 3}
   speakingObject: {fileID: 6465108282813103847, guid: e4935aea2e9cf6849a1a029ef4bc4223, type: 3}
-  speakingObjectReplacement: {fileID: 1823673485134902423, guid: 8000985d976d43041928669b4aca9e3a, type: 3}
+  speakingObjectReplacement: {fileID: 4876474811433730309, guid: 7cd0ee8c0439811488c7302722cf5eef, type: 3}
   spawnedObjectOffset: {x: -1, y: 1}
   emotionSpawnDelay: 5
   replacementEmotionSpawnDelay: 15
