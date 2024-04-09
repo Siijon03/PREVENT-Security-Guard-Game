@@ -571,7 +571,7 @@ MonoBehaviour:
   speakingObject: {fileID: 1098300819734260369, guid: c5d5b89332363ea4fa05ad05a6b7ec2a, type: 3}
   speakingObjectReplacement: {fileID: 6465108282813103847, guid: e4935aea2e9cf6849a1a029ef4bc4223, type: 3}
   spawnedObjectOffset: {x: 1, y: 1}
-  emotionSpawnDelay: 5
+  emotionSpawnDelay: 10
   replacementEmotionSpawnDelay: 15
   zOffset: 0
 --- !u!95 &482117891
@@ -723,7 +723,7 @@ MonoBehaviour:
   speakingObject: {fileID: 4867036591851647176, guid: 890d5e1f178de5f43b9376f8c5385c71, type: 3}
   speakingObjectReplacement: {fileID: 1098300819734260369, guid: c5d5b89332363ea4fa05ad05a6b7ec2a, type: 3}
   spawnedObjectOffset: {x: -0.5, y: 1}
-  emotionSpawnDelay: 8
+  emotionSpawnDelay: 12
   replacementEmotionSpawnDelay: 16
   zOffset: 0
 --- !u!61 &533199672

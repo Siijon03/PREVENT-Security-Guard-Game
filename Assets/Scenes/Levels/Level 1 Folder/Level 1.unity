@@ -1909,8 +1909,8 @@ MonoBehaviour:
   speakingObject: {fileID: 1098300819734260369, guid: c5d5b89332363ea4fa05ad05a6b7ec2a, type: 3}
   speakingObjectReplacement: {fileID: 480776376515346602, guid: 636d8367a728b4a42af6fa6d6ce5fb24, type: 3}
   spawnedObjectOffset: {x: 1, y: 1}
-  emotionSpawnDelay: 5
-  replacementEmotionSpawnDelay: 15
+  emotionSpawnDelay: 10
+  replacementEmotionSpawnDelay: 14
   zOffset: 0
 --- !u!1 &1609108109 stripped
 GameObject:
@@ -2077,7 +2077,7 @@ MonoBehaviour:
   speakingObject: {fileID: 6465108282813103847, guid: e4935aea2e9cf6849a1a029ef4bc4223, type: 3}
   speakingObjectReplacement: {fileID: 4876474811433730309, guid: 7cd0ee8c0439811488c7302722cf5eef, type: 3}
   spawnedObjectOffset: {x: -1, y: 1}
-  emotionSpawnDelay: 5
+  emotionSpawnDelay: 10
   replacementEmotionSpawnDelay: 15
   zOffset: 1
 --- !u!1001 &9090270182231078595
