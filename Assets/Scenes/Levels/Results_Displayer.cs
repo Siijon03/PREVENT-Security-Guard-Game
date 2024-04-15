@@ -11,16 +11,16 @@ public class Results_Displayer : MonoBehaviour
     [SerializeField] private Camera _mainCamera;
 
     // Score System Establishment
-    public int points_Score = 0;
+    public int points_Score;
     public TextMeshPro scoreText;
 
     public GameObject shinyBadge;
     public GameObject badEndingSlip;
-    
+
 
     void Start()
     {
-       
+
         scoreText.gameObject.SetActive(true);
 
         shinyBadge.SetActive(false);
@@ -28,9 +28,10 @@ public class Results_Displayer : MonoBehaviour
 
         scoreText.text = "Your Score: " + points_Score.ToString();
 
+        LoadScore();
     }
 
-  
+
 
     // Update is called once per frame
     public void Update()
@@ -41,31 +42,21 @@ public class Results_Displayer : MonoBehaviour
             Debug.Log("Loading");
         }
         // Check if score exceeds threshold and reset if necessary
-        LoadScore();
+        //LoadScore();
     }
 
     public void GoodEnding()
     {
-        if (points_Score == 5)
-        {
-            shinyBadge.SetActive (true);
-        }
-        else
-        {
-            BadEnding();
-        }
+
+        shinyBadge.SetActive(true);
+
     }
 
     public void BadEnding()
     {
-        if(points_Score < 5)
-        {
-            badEndingSlip.SetActive (true);
-        }
-        else
-        {
-            GoodEnding();
-        }
+
+        badEndingSlip.SetActive(true);
+
     }
 
     //Basic Function to Decrease Player Score.
@@ -117,29 +108,18 @@ public class Results_Displayer : MonoBehaviour
 
         if (points_Score == 5)
         {
-            shinyBadge.SetActive(true);
+            GoodEnding();       
         }
-        else
+
+        if (points_Score < 5)
         {
             BadEnding();
         }
-
-       
-            if (points_Score < 5)
-            {
-                badEndingSlip.SetActive(true);
-            }
-            else
-            {
-                GoodEnding();
-            }
-        
-
     }
 
     public void OnApplicationQuit()
     {
-        
+
     }
 
 }
